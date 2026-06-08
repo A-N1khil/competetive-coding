@@ -12,5 +12,6 @@ public class MaxSumPairWithEqualSumDigits {
 			
 		}
 
+		return 0;
 	}
 }
